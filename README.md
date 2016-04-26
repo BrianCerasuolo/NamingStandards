@@ -17,7 +17,7 @@ The general rule we follow is "use ReSharper defaults"
 
     // good
     public string CppQuote {get;set;}
-    public int IsmREtailRep {get;set;}
+    public int IsmRetailRep {get;set;}
     public string HttpPath {get;set;}
     ```
 
